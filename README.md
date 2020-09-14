@@ -1,7 +1,7 @@
 # Twitter-Text-Analytics
 
 ## Objective
-This repository stores the files for the project undertaken for the course ISSS617: Python for Data Science. The project is to perform Topic Modelling and Sentiment Analysis for tweets extracted through Twitter API to look at customer sentiments for Changi Airport.
+This repository stores the files for the project undertaken for the course ISSS617: Python for Data Science. This course is offered by Singapore Management University in the Masters of IT in Business (Analytics) programme. The purpose of this project is to perform Topic Modelling and Sentiment Analysis for tweets extracted using the Twitter API to look at customer sentiments for Changi Airport.
 
 ## DataSet
 Data was directly extracted using Twitter’s API. Extraction was done for keywords related to Changi Airport that include tweets by users who have tagged Changi Airport. Apart from Changi Airport, tweets for Universal Studios Singapore and Gardens by the Bay was extracted through Twitter API. The tweets were extracted from November 15th to 25th 2019.
